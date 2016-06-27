@@ -12,9 +12,9 @@ These scripts install my machine with some basic dev tools:
 ## Usage
 
 ```bash
-wget https://github.com/joshnuss/dev-box-setup/archive/master.zip dev-box-setup.zip
+wget https://github.com/joshnuss/dev-box-setup/archive/master.zip -O dev-box-setup.zip
 unzip dev-box-setup.zip
-cd dev-box-setup
+cd dev-box-setup-master
 ./run.sh
 ```
 
