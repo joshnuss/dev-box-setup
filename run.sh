@@ -14,3 +14,4 @@ source ./installers/elixir.sh
 source ./installers/ruby.sh
 source ./installers/node.sh
 source ./installers/vim.sh
+source ./installers/files-and-folders.sh
