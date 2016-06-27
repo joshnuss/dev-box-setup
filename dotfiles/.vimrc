@@ -99,3 +99,5 @@ let g:airline_section_z=''
 set listchars=tab:▸\ ,eol:¬
 
 let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
+
+set nofoldenable
