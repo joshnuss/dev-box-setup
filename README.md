@@ -2,10 +2,6 @@
 
 These scripts install my machine with some basic dev tools:
 
-## Supported Operating System
-
-Linux Mint 18 (Sarah) BETA
-
 ## Languages & Tools
 
 - GIT
@@ -14,6 +10,10 @@ Linux Mint 18 (Sarah) BETA
 - Ruby 2.3.1 (with ruby-install and chruby)
 - Node 5 (with Node Version Manager)
 - VIM text editor
+
+## Operating System
+
+Linux Mint 18 (Sarah) BETA
 
 ## Usage
 
