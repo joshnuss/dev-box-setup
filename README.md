@@ -2,6 +2,12 @@
 
 These scripts install my machine with some basic dev tools:
 
+## Supported Operating System
+
+Linux Mint 18 (Sarah) BETA
+
+## Languages & Tools
+
 - GIT
 - Erlang 19 (with kerl version manager)
 - Elixir 1.3.0 (with kiex version manager)
