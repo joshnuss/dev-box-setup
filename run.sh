@@ -1,5 +1,7 @@
 DOTFILES=$(pwd)/dotfiles
+KEYS=$(pwd)/keys
 
+source ./installers/keys.sh
 source ./installers/chrome.sh
 source ./installers/programs.sh
 source ./installers/bash.sh
