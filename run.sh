@@ -2,6 +2,7 @@ DOTFILES=$(pwd)/dotfiles
 
 source ./installers/chrome.sh
 source ./installers/programs.sh
+source ./installers/bash.sh
 source ./installers/aliases.sh
 source ./installers/bin-dir.sh
 source ./installers/hub.sh
